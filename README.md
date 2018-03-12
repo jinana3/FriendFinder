@@ -13,7 +13,7 @@ All you have to do is take the survey and your results are compared to others, a
 
 ### How users can get started with the project?
 
-The application is hosted on  Heroku. Please access this website to get started.
+The application is hosted on  Heroku. Please access [this website](https://still-hamlet-76196.herokuapp.com/) to get started.
 
 ### Where users can get help with your project?
 
