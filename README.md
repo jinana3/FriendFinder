@@ -17,6 +17,6 @@ The application is hosted on  Heroku. Please access [this website](https://still
 
 ### Where users can get help with your project?
 
-Please email me at jinali.berkeley@gmail.com.
+Please email me at jinali.berkeley@gmail.com
 
-Also visit https://www.npmjs.com/ for info on API packages used (`body-parser`, `express` and `path` were used in this project)
+Also visit [npmjs.com](https://www.npmjs.com/) for info on API packages used (`body-parser`, `express` and `path` were used in this project)
